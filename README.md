@@ -17,6 +17,9 @@ https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset/data
  - Matplotlib
  - Xgboost
  - Feature selection
+##Workflow
+![Screenshot 2024-07-21 121416](https://github.com/user-attachments/assets/9e71b6cf-5aed-431b-b947-4d85af4b1f08)
+
 
 ## Running the Notebook
 The notebook can be run on 
